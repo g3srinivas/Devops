@@ -13,3 +13,6 @@ time
 date
 --- only in dev
 cut -d <delimiter> -f <fields>
+chgrp
+sudo
+su
