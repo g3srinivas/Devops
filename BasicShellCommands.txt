@@ -11,5 +11,5 @@ help
 vi
 time
 date
---- only in dev
+--- only in main and dev
 cut -d <delimiter> -f <fields>
