@@ -1,0 +1,7 @@
+ps
+ls
+pwd
+grep
+chmod
+chown
+
