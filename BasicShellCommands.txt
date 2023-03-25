@@ -4,4 +4,6 @@ pwd
 grep
 chmod
 chown
-
+tail
+man
+nslookup
